@@ -5,7 +5,7 @@
  <resources> <j2se version="1.6+" href="http://centrodedescargas.cnig.es/CentroDescargas"/> <jar href="descargasCDD.jar" main="true" /> </resources>
  <applet-desc name="CNIG Centro de descargas"  main-class="descargascdd.CnigCDD" width="900" height="600">
 <param name="idioma" value="ES"/>
-<param name="codLicencia" value="LIGW225990169"/>
+<param name="codLicencia" value="LIGW225990360"/>
  </applet-desc>
  <update check="always"/>
  </jnlp>
